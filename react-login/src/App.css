@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App2 {
+  padding: 0px;
+}
+
+.Input{
+  width: 20%;
+  height: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.Input2{
+  width: 23%;
+  height: 30px;
+  text-align: center;
+}
+
+.Center{
+  text-align: center;
+  padding: 20px;
+}
+.bt1{
+  width: '100px';
+  height: '50px';
+  padding: 20px;
+  border-radius: 5%;
+  background-color: #D3D3D3;
+}
+.logout{
+  text-align: right;
+}
+
+img{
+  height: 300px !important;
+}
